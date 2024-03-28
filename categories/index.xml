@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Etrazc</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Etrazc</description>
+    <title>Categories on ETRAZC</title>
+    <link>https://etrazc.github.io/categories/</link>
+    <description>Recent content in Categories on ETRAZC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 14 Nov 2019 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 22:32:45 +0700</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://etrazc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chinese</title>
-      <link>/categories/chinese/</link>
-      <pubDate>Thu, 14 Nov 2019 11:25:05 -0400</pubDate>
+      <title>Guide</title>
+      <link>https://etrazc.github.io/categories/guide/</link>
+      <pubDate>Tue, 19 Mar 2024 22:32:45 +0700</pubDate>
       
-      <guid>/categories/chinese/</guid>
+      <guid>https://etrazc.github.io/categories/guide/</guid>
       <description></description>
     </item>
     

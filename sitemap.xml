@@ -3,43 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/categories/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/tags/cheat-sheet/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/categories/guide/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/posts/1st/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/links/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/tags/markdown/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/china/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <loc>https://etrazc.github.io/posts/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/tags/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/links/link/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/tags/tips/</loc>
+    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
 </urlset>
