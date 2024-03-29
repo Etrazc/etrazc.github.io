@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://etrazc.github.io/</loc>
+    <lastmod>2024-03-29T09:41:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/posts/links/</loc>
+    <lastmod>2024-03-29T09:41:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/posts/</loc>
+    <lastmod>2024-03-29T09:41:48+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://etrazc.github.io/categories/</loc>
-    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
+    <lastmod>2024-03-29T08:40:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/tags/games/</loc>
+    <lastmod>2024-03-29T08:40:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/tags/music/</loc>
+    <lastmod>2024-03-29T08:40:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/categories/playlist/</loc>
+    <lastmod>2024-03-29T08:40:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/tags/</loc>
+    <lastmod>2024-03-29T08:40:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etrazc.github.io/posts/playlist-01/</loc>
+    <lastmod>2024-03-29T08:40:57+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://etrazc.github.io/tags/cheat-sheet/</loc>
-    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etrazc.github.io/</loc>
     <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   
@@ -28,27 +63,7 @@
   </url>
   
   <url>
-    <loc>https://etrazc.github.io/links/</loc>
-    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://etrazc.github.io/tags/markdown/</loc>
-    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etrazc.github.io/posts/</loc>
-    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etrazc.github.io/tags/</loc>
-    <lastmod>2024-03-19T22:32:45+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etrazc.github.io/links/link/</loc>
     <lastmod>2024-03-19T22:32:45+07:00</lastmod>
   </url>
   

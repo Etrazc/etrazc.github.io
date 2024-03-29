@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playlist on ETRAZC</title>
+    <link>https://etrazc.github.io/categories/playlist/</link>
+    <description>Recent content in Playlist on ETRAZC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 29 Mar 2024 08:40:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://etrazc.github.io/categories/playlist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tokyo Indie Music</title>
+      <link>https://etrazc.github.io/posts/playlist-01/</link>
+      <pubDate>Fri, 29 Mar 2024 08:40:57 +0700</pubDate>
+      
+      <guid>https://etrazc.github.io/posts/playlist-01/</guid>
+      <description>Tokyo Indie Music adalah permainan ritme musik yang rilis di perangkat mobile. Saya rasa tidak banyak orang yang mengetahui. Gameplay pada umumnya mirip Piano Tiles dengan beberapa kombinasi. Meskipun lagu-lagu yang tersedia berasal dari band-band menengah kecil, mereka artis yang bertalenta.
+ NEIGHBOURHOOD  That Girl UUU Give it to me Wannabe   Lie Down A Second  Under the Reign of the Moon Turnstone   kodomokawauso  3番線 さよならカクテル 青い花 こんな世界なら   Bremen  夢になって    </description>
+    </item>
+    
+  </channel>
+</rss>

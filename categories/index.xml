@@ -6,10 +6,19 @@
     <description>Recent content in Categories on ETRAZC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Tue, 19 Mar 2024 22:32:45 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 08:40:57 +0700</lastBuildDate>
     
 	<atom:link href="https://etrazc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Playlist</title>
+      <link>https://etrazc.github.io/categories/playlist/</link>
+      <pubDate>Fri, 29 Mar 2024 08:40:57 +0700</pubDate>
+      
+      <guid>https://etrazc.github.io/categories/playlist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Guide</title>
